@@ -1,0 +1,9 @@
+{
+	"name": "adf-azure-spotify-atda",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "689a1fa6-1a3a-4034-9166-a8e4d3b81dc4",
+		"tenantId": "d3ac8322-377f-43fc-bf99-bdd9417b4a6e"
+	}
+}
